@@ -26,6 +26,8 @@ NM **Lecturer Slides**
 - First Assessment Result
 - Final Assessment Result
 - Final Internal Marks of NM
+- [World Population by Year](https://www.worldometers.info/world-population/world-population-by-year/)
+- [World Population Projections](https://www.worldometers.info/world-population/world-population-projections/)
 
 **Useful Links**
 - [NM Video Lectures](https://www.youtube.com/watch?v=eHNUe0KtUNs&list=PLX_u9dGF6jKacesccdZ9tUePBKkLYQ1Yo)
